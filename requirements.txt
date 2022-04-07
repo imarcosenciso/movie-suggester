@@ -1,0 +1,13 @@
+###### To install these libraries, run <pip install -r requirements.txt> ######
+pandas
+numpy
+sklearn
+pickle
+yellowbrick
+seaborn
+matplotlib
+
+
+
+
+
